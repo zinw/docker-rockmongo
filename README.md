@@ -1,2 +1,2 @@
-# docker-rockmongo
-docker-rockmongo based on centos
+# Docker rockmongo
+docker-rockmongo which is based on centos image
